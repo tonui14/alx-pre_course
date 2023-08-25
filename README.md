@@ -1,1 +1,1 @@
-My first readme
+Today is a great day
